@@ -77,7 +77,7 @@ Add interactive quizzes, certificates and analytics dashboard
 
 Improve accessibility (WCAG compliance) and load performance
 
-#output#:
+#output#:![Image](https://github.com/user-attachments/assets/015a1869-4c56-49e8-8f76-d838a6da57eb)
 
 👤 Author
 
